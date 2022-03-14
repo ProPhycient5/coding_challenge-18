@@ -1,4 +1,4 @@
-# coding_challenge-18
+# coding_challenge-18 (Real taste of JS)
 
 This coding challenge is all about **solving tough JavaScript questions and improving your core understanding of the language**. JavaScript is at the core of all the libraries, frameworks and tools that we use. Mastering the language is one of the best investments you can make, so let's get through some tough interview questions!
 
